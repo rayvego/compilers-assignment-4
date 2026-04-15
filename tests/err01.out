@@ -1,0 +1,6 @@
+===== Source Code =====
+int main() {
+    x = 5 + ;
+}
+===== Intermediate Code (3AC Quadruples) =====
+[Syntax Error] at line 2: syntax error (near token ';')
